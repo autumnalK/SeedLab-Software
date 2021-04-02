@@ -5,7 +5,7 @@ my lab report for SeedLab v2.0 Ubuntu 20.04 Software part
 
 - Directory
   - [x] Buffer Overflow Attack Lab （Server Ver）
-  - [ ] Return to libc
+  - [x] Return to libc
   - [ ] Environment Variable
   - [ ] Race condition + Dirty Cow
   - [ ] Format String
