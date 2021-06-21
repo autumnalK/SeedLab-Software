@@ -8,5 +8,5 @@ my lab report for SeedLab v2.0 Ubuntu 20.04 Software part
   - [x] Return to libc
   - [x] Environment Variable
   - [x] Race condition + Dirty Cow
-  - [ ] Format String
-  - [ ] Spectra & Meltdown
+  - [x] Format String
+  - [x] Spectra & Meltdown
